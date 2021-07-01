@@ -1,6 +1,6 @@
 # Reddit JPG/PNG Downloader
 PoweredBy :
-![Flutter](https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png)
+<img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="50" />
 
 ![Author](https://img.shields.io/badge/author-Paras%20Negi-lightgrey.svg?colorB=9900cc&style=flat-square)
 
