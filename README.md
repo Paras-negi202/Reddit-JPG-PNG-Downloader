@@ -5,10 +5,10 @@ PoweredBy :
 ![Author](https://img.shields.io/badge/author-Paras%20Negi-lightgrey.svg?colorB=9900cc&style=flat-square)
 
 # Preview
-<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-42-30-45_061ee459f5ae03774a3603f0775a6186.jpg" width="500" height="900" />
-<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-42-56-15_061ee459f5ae03774a3603f0775a6186.jpg" width="500" height="900" />
-<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-43-42-85_061ee459f5ae03774a3603f0775a6186.jpg" width="500" height="900" />
-<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-44-38-78_061ee459f5ae03774a3603f0775a6186.jpg" width="500" height="900" />
+<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-42-30-45_061ee459f5ae03774a3603f0775a6186.jpg" width="400" height="900" />
+<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-42-56-15_061ee459f5ae03774a3603f0775a6186.jpg" width="400" height="900" />
+<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-43-42-85_061ee459f5ae03774a3603f0775a6186.jpg" width="400" height="900" />
+<img src="https://github.com/Paras-negi202/Reddit-JPG-PNG-Downloader/blob/main/ScreenShots/Screenshot_2021-01-09-19-44-38-78_061ee459f5ae03774a3603f0775a6186.jpg" width="400" height="900" />
 
 
 # Introduction
